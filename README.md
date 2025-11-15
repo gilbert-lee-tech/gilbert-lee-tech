@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Gilbert Lee! 👋 Senior Software Engineer
 
 <!--
 **gilbert-lee-tech/gilbert-lee-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
