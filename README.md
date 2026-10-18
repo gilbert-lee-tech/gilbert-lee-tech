@@ -22,6 +22,24 @@ Expert in translating complex business requirements into clean, maintainable cod
 ## :mortar_board: Education
 University of British Columbia Computer Science (BCompSc) 2000
 
+## :rocket: Personal Projects
+
+Both were built with Claude Code as my AI pair programmer. The source is private; each showcase tells the story with screenshots, diagrams and numbers.
+
+### [Aquamarine Jewelry](https://github.com/gilbert-lee-tech/aquamarine-jewelry-store-showcase)
+A product catalog for a small shop that sells handmade, one-of-a-kind crystal jewelry. I first built it on Shopify. After talking with the owner, I rebuilt it as a free static catalog that the owner runs from a phone, and every piece keeps its page after it sells.
+
+- *Stack:* Astro, Sveltia CMS, GitHub, Cloudflare Workers
+- *Highlights:* six design prototypes in one evening; a dev-branch pipeline from feedback to live in hours; builds cut from about 20 minutes to under one
+- [Live site](https://aquamarine-jewelry-store.gilbert-lee-tech.workers.dev) · [Showcase](https://github.com/gilbert-lee-tech/aquamarine-jewelry-store-showcase)
+
+### [Interval App](https://github.com/gilbert-lee-tech/IntervalApp-showcase)
+An ear-training app for musical intervals, built for piano students preparing for music-theory exams. I rewrote it from scratch, moving it from a 2015 Cordova/Backbone hybrid app to an installable, offline-first web app.
+
+- *Stack:* React 19, TypeScript, Vite, Workbox, Cloudflare Workers
+- *Highlights:* 7 days from first commit to the current version; 35 pull requests reviewed and merged; fixed a long-standing bug in the original's sheet music
+- [Try it](https://intervalapp.gilbert-lee-tech.workers.dev) · [Showcase](https://github.com/gilbert-lee-tech/IntervalApp-showcase)
+
 ## :computer: Work Experiences
 
 ### Architect/Technical Lead (2019 – 2025) 
